@@ -1,6 +1,6 @@
-# SumgMug
+# SmugMug
 This folder contains the extension implementation for the
-[SumgMug](https://www.smugmug.com/) service.
+[SmugMug](https://www.smugmug.com/) service.
 
 ## Data Supported
 
@@ -14,10 +14,10 @@ cases are working.
 
 Apply for a key at [api.smugmug.com/api/developer/apply](https://api.smugmug.com/api/developer/apply).
 
-SumgMug uses OAuth 1 for authorization.
+SmugMug uses OAuth 1 for authorization.
 
 ## Maintained By
 
 The Instagram extension was created by the
 [DTP maintainers](mailto:portability-maintainers@googlegroups.com)
-and is not an official product of SumgMug.
+and is not an official product of SmugMug.
